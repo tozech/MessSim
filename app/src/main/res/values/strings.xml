@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MessSim</string>
+    <string name="sensor1">Ex</string>
+    <string name="unit1">% UEG</string>
+    <string name="sensor2">O2</string>
+    <string name="unit2">%</string>
+    <string name="sensor3">H2S</string>
+    <string name="unit3">PPM</string>
+    <string name="sensor4">PID</string>
+    <string name="unit4">PPM</string>
+</resources>
